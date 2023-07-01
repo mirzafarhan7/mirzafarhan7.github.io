@@ -62,6 +62,7 @@ permalink: /about/
 </div>
 {% endfor %}
 
+<!---
 {% if site.data.grants %}
 <div class="jumbotron">
 ### Grants
@@ -83,10 +84,49 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
+
+<div class="jumbotron">
+### Skills
+<ul>
+<li>
+<b>Programming Skills</B>: C | Python | Java
+</li>
+<li>
+<b>Web Technologies:</b> HTML | CSS
+</li>
+<li>
+<b>Machine Learning Frameworks:</b> Pytorch 
+</li>
+<li>
+<b>DBMS:</b> MySQL | Oracle
+</li>
+<li>
+<b>Others:</b> Git | MS Office | Windows | Linux 
+</li>
+</ul>
+</div>
+
+{% if site.data.works %}
+<div class="jumbotron">
+### Work Experience
+<ul>
+
+{% for work in site.data.works %}
+<li>
+<h4> {{work.position}} </h4>
+<p>{{work.place}} </p>
+<p style="color:grey">{{work.duration}}</p>
+<p style= "text-align: justify;text-justify: inter-word;">{{work.description}}</p> 
+</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
 
 {% if site.data.people %}
 <div class="jumbotron">
-### Students and mentoring
+### Mentoring
 <ul>
 {% for student in site.data.people %}
  <li> {{ student.name }}, {{student.location}} ({{student.degree}}, {{student.year}}) </li>
@@ -94,10 +134,11 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
-
+<!---
 <div class="jumbotron">
   <h4>Sponsors</h4>
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
 </div>
+-->

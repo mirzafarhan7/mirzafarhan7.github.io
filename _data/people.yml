@@ -1,24 +1,4 @@
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2022
-
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
+- name: M M Shahriar Amin, Partho Mark Gomes, Jui Philomina Gomes, Faiza Tasneem
+  location: Brac University, Dhaka, Bangladesh
+  degree: B.Sc. in CSE ( Thesis Co-Supervisor)
   year: 2021
-
-- name: Student Here
-  location: Univesity Here
-  degree: Ph.D. 
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: M.S.
-  year: 2020
-
-- name: Student Here
-  location: Univesity Here
-  degree: B.S.
-  year: 2020

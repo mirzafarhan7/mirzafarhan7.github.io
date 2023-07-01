@@ -1,22 +1,22 @@
-- name: Dr. Richard Feynman
+- name: Mirza Farhan Bin Tarek
   photo: headshot.jpg
-  info: Richard C. Tolman Professor, California Institute of Technology
-  email: richard@university.edu
-  github: https://github.com/
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
-  cv: cv/cv.pdf
+  info: Ph.D. Student, University of Delaware, USA
+  email: mfarhan@udel.edu
+  #github: https://github.com/GradStar
+  #researchgate: https://www.researchgate.net/
+  scholar: https://scholar.google.com/citations?user=TNHqd54AAAAJ&hl=en
+  cv: https://drive.google.com/file/d/1gbhC9jJ9hLkJxoLpNAzXpuRU2hdqeKbf/view?usp=sharing
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 2
-  education1: "(1942) Ph.D. Physics, Princeton University"
-  education2: "(1939) B.S. Physics, Massachusetts Institute of Technology"
-  # education3: 
+  number_educ: 3
+  education1: "(2022-) Ph.D. in Computer Science, University of Delaware, USA"
+  education2: "(2014-2018) B.Sc. in Computer Science and Engineering, United International University, Dhaka, Bangladesh"
+  education3: "(2017-2018) Individual Modules, Staffordshire University, United Kingdom"
   # education4: 
   # education5: 
   # education6: 
-  education1short: (1942) Ph.D. Physics, Princeton
-  education2short: (1939) B.S. Physics, MIT
-  # education3short: 
+  education1short: (2022-) Ph.D. CS, UD, USA
+  education2short: (2014-2018) B.Sc. CSE, UIU, Bangladesh
+  education3short: (2017-2018) Individual Modules, Staffordshire University, UK
   # education4short: 
   # education5short: 
   # education6short: 

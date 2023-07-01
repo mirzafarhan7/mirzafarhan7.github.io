@@ -5,29 +5,12 @@ sitemap: false
 permalink: /
 ---
 
-### Welcome!
-
-Theoretical physics is a branch of physics that focuses on the development of mathematical models and theories to understand and explain natural phenomena.
-It plays a crucial role in our understanding of the fundamental laws of the universe and the fundamental particles that make up all matter.
-Research in theoretical physics helps us to make predictions about how the universe works and to test these predictions through experiments.
-It also helps us to understand the fundamental principles that govern the behavior of matter and energy, and to explore the limits of our current knowledge.
-Theoretical physics helps us to make progress in a wide range of fields, including cosmology, particle physics, and quantum mechanics, and it has led to many important discoveries and technological innovations.
-
-<div class="container">
-<div class="row">
-<center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/banner.jpg" width="100%"/><br/>
-Examples of Feynman diagrams. <br/>
-Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
-</center>
-</div>
-</div>
-<br/>
-
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now the California Institute of Technology.
+Greetings! I am delighted to extend a warm welcome to you on my website. I am Mirza Farhan Bin Tarek, a dedicated and passionate individual pursuing a Ph.D. in Computer Science at the prestigious University of Delaware in the United States. My research focuses on the development of fair machine learning models and their application in the realm of healthcare.
 
+Having previously served as a Lecturer in the esteemed CSE department of BRAC University in Dhaka, Bangladesh for a notable duration of 3 years and 4 months, I have gained valuable teaching experience and honed my expertise in the field. I am currently inspiring future generations of computer scientists as an instructor in the CIS department at the University of Delaware.
+
+I thrive on challenges and possess an unwavering motivation to continuously expand my knowledge and skill set. My enthusiasm for learning knows no bounds, and I wholeheartedly embrace opportunities to explore new frontiers in the exciting domain of computer science.
+
+Thank you for visiting my website, and I invite you to explore my work and achievements further.

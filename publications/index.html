@@ -83,31 +83,38 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 
 <div class="jumbotron">
-  <h3 id="conference-proceedings">Conference proceedings</h3>
+  <h3 id="conference-proceedings">Conference Proceedings</h3>
   <ol class="bibliography" reversed="reversed"><li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
+.btn {
+    margin-bottom: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 25px;
 }
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    width: 100%;
+    overflow-x: auto;
 }
 </style>
 
 
-<div class="text-justify"><span id="10.1145/3593013.3594102">Poulain, R., Bin Tarek, M. F., &amp; Beheshti, R. (2023). Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods. <i>Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</i>, 1599–1608. https://doi.org/10.1145/3593013.3594102</span></div>
+<!-- <div class="text-justify"><span id="10.1145/3593013.3594102">Poulain, R., Bin Tarek, M. F., &amp; Beheshti, R. (2023). Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods. <i>Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</i>, 1599–1608.</span></div> -->
 
 <!-- You can use the below to make your name bold -->
-<!-- <span id="10.1145/3593013.3594102">Poulain, R., Bin Tarek, M. F., &amp; Beheshti, R. (2023). Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods. <i>Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</i>, 1599–1608. https://doi.org/10.1145/3593013.3594102</span></div> -->
+<!-- <span id="10.1145/3593013.3594102">Poulain, R., <b><b>Bin Tarek, M.</b> F.</b>, &amp; Beheshti, R. (2023). Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods. <i>Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</i>, 1599–1608.</span></div> -->
+
+
+
+
+<div class="text-justify"><span id="10.1145/3593013.3594102">Poulain, R., <b><b>Bin Tarek, M.</b> F.</b>, &amp; Beheshti, R. (2023). Improving Fairness in AI Models on Electronic Health Records: The Case for Federated Learning Methods. <i>Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency</i>, 1599–1608.</span></div>
+
 
 
 
@@ -121,11 +128,11 @@ pre{
 
 
 
-<button class="btn btn-danger btm-sm" onclick="toggleBibtex10.1145/3593013.3594102()">BIB</button>
+<button class="btn btn-danger btm-sm" onclick="toggleBibtex('10.1145/3593013.3594102')">BIB</button>
 
 
 
-<button class="btn btn-warning btm-sm" onclick="toggleAbstract10.1145/3593013.3594102()">ABSTRACT</button>
+<button class="btn btn-warning btm-sm" onclick="toggleAbstract('10.1145/3593013.3594102')">ABSTRACT</button>
 
 
 
@@ -137,12 +144,11 @@ pre{
   isbn = {9798400701924},
   publisher = {Association for Computing Machinery},
   address = {New York, NY, USA},
-  url = {https://doi.org/10.1145/3593013.3594102},
   doi = {10.1145/3593013.3594102},
   booktitle = {Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency},
-  pages = {1599–1608},
+  pages = {1599-1608},
   numpages = {10},
-  keywords = {Adversarial Fairness, Algorithmic Fairness, Federated Learning},
+  keywords = {Federated Learning, Adversarial Fairness, Algorithmic Fairness},
   location = {Chicago, IL, USA},
   series = {FAccT '23}
 }
@@ -155,7 +161,7 @@ pre{
 </div>
 
 <script>
-function toggleBibtex10.1145/3593013.3594102(parameter) {
+function toggleBibtex(entryKey) {
     var x= document.getElementById('a10.1145/3593013.3594102');
     if (x.style.display === 'none') {
         x.style.display = 'block';
@@ -163,7 +169,7 @@ function toggleBibtex10.1145/3593013.3594102(parameter) {
         x.style.display = 'none';
     }
 }
-function toggleAbstract10.1145/3593013.3594102(parameter) {
+function toggleAbstract(entryKey) {
     var x= document.getElementById('b10.1145/3593013.3594102');
     if (x.style.display === 'none') {
         x.style.display = 'block';
@@ -174,29 +180,36 @@ function toggleAbstract10.1145/3593013.3594102(parameter) {
 </script>
 </li>
 <li><style>
-.btn{
-    margin-bottom:5px;
-    padding-top:0px;
-    padding-bottom:0px;
-    padding-left:15px;
-    padding-right:15px;
-    height:20px:
+.btn {
+    margin-bottom: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 25px;
 }
-pre{
-    white-space: pre-wrap;  
-    white-space: -moz-pre-wrap; 
-    white-space: -pre-wrap; 
-    white-space: -o-pre-wrap; 
-    word-wrap: break-word; 
-    width:100%; overflow-x:auto;
+pre {
+    white-space: pre-wrap;
+    white-space: -moz-pre-wrap;
+    white-space: -pre-wrap;
+    white-space: -o-pre-wrap;
+    word-wrap: break-word;
+    width: 100%;
+    overflow-x: auto;
 }
 </style>
 
 
-<div class="text-justify"><span id="spatio">Bin Tarek, M. F., Asaduzzaman, M., &amp; Patwary, M. (2018). Spatio- Temporal Analysis of Large Air Pollution Data. <i>2018 10th International Conference on Electrical and Computer Engineering (ICECE)</i>, 221–224.</span></div>
+<!-- <div class="text-justify"><span id="8636696">Bin Tarek, M. F., Asaduzzaman, M., &amp; Patwary, M. (2018). Spatio- Temporal Analysis of Large Air Pollution Data. <i>2018 10th International Conference on Electrical and Computer Engineering (ICECE)</i>, 221–224.</span></div> -->
 
 <!-- You can use the below to make your name bold -->
-<!-- <span id="spatio">Bin Tarek, M. F., Asaduzzaman, M., &amp; Patwary, M. (2018). Spatio- Temporal Analysis of Large Air Pollution Data. <i>2018 10th International Conference on Electrical and Computer Engineering (ICECE)</i>, 221–224.</span></div> -->
+<!-- <span id="8636696"><b><b>Bin Tarek, M.</b> F.</b>, Asaduzzaman, M., &amp; Patwary, M. (2018). Spatio- Temporal Analysis of Large Air Pollution Data. <i>2018 10th International Conference on Electrical and Computer Engineering (ICECE)</i>, 221–224.</span></div> -->
+
+
+
+
+<div class="text-justify"><span id="8636696"><b><b>Bin Tarek, M.</b> F.</b>, Asaduzzaman, M., &amp; Patwary, M. (2018). Spatio- Temporal Analysis of Large Air Pollution Data. <i>2018 10th International Conference on Electrical and Computer Engineering (ICECE)</i>, 221–224.</span></div>
+
 
 
 
@@ -210,14 +223,16 @@ pre{
 
 
 
-<button class="btn btn-danger btm-sm" onclick="toggleBibtexspatio()">BIB</button>
+<button class="btn btn-danger btm-sm" onclick="toggleBibtex('8636696')">BIB</button>
 
 
 
+<button class="btn btn-warning btm-sm" onclick="toggleAbstract('8636696')">ABSTRACT</button>
 
 
-<div id="aspatio" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre>@inproceedings{spatio,
+
+<div id="a8636696" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>@inproceedings{8636696,
   author = {Bin Tarek, Mirza Farhan and Asaduzzaman, Md and Patwary, Mohammad},
   booktitle = {2018 10th International Conference on Electrical and Computer Engineering (ICECE)},
   title = {Spatio- Temporal Analysis of Large Air Pollution Data},
@@ -225,27 +240,30 @@ pre{
   volume = {},
   number = {},
   pages = {221-224},
-  doi = {10.1109/ICECE.2018.8636696}
+  keywords = {},
+  doi = {10.1109/ICECE.2018.8636696},
+  issn = {},
+  month = dec
 }
 </pre>
 </div>
 
 
-<div id="bspatio" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
-<pre></pre>
+<div id="b8636696" style="display: none; background-color:black; border-radius:5px; padding:10px; margin-bottom:20px;">
+<pre>Air pollution is one of the most dangerous environmental threats in our planet. Although it is severe in highly populated and industrialized cities of the developing countries, it is a major concern for developed countries as well. In the developed world, air quality data is gathered from a large number of air pollution monitoring stations. However, the volume of data is very high and it is not possible to analyze the data efficiently in real-time using the conventional methods. Hence, large scale data mining techniques can help in analyzing those data more efficiently and dynamically. In this paper, a method for mining large amount of air pollution data is proposed for finding air pollution hot spots and time of pollution using clustering methods and time-series analysis. The results, after using the method to the air pollution data of PM2.5, PM10and ozone in the United Kingdom from 2015-17, has shown that the pollution due to particulate matters was higher in winter season and ozone pollution had downward trend except some areas.</pre>
 </div>
 
 <script>
-function toggleBibtexspatio(parameter) {
-    var x= document.getElementById('aspatio');
+function toggleBibtex(entryKey) {
+    var x= document.getElementById('a8636696');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
         x.style.display = 'none';
     }
 }
-function toggleAbstractspatio(parameter) {
-    var x= document.getElementById('bspatio');
+function toggleAbstract(entryKey) {
+    var x= document.getElementById('b8636696');
     if (x.style.display === 'none') {
         x.style.display = 'block';
     } else {
@@ -255,6 +273,13 @@ function toggleAbstractspatio(parameter) {
 </script>
 </li></ol>
 </div>
+<!-- 
+<div class="jumbotron">
+### Journal Articles
+<ol class="bibliography" reversed="reversed"></ol>
+</div>
+-->
+
 
 </div>
 

@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings! I am delighted to extend a warm welcome to you on my website. I am Mirza Farhan Bin Tarek, a dedicated and passionate individual pursuing a Ph.D. in Computer Science at the University of Delaware working under the supervision of Professor Beheshti within the <a href='https://sites.udel.edu/healthylaife/'> healthy lAife lab </a>. My research interests lie at the intersection of Machine Learning and Healthcare. Currently, my focus is on generating fair synthetic electronic healthcare data.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Having previously served as a Lecturer in the esteemed CSE department of BRAC University in Dhaka, Bangladesh for 3 years and 4 months, I have gained valuable teaching experience and honed my expertise in the field. I am currently inspiring future generations of computer scientists as an instructor in the CIS department at the University of Delaware.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I thrive on challenges and possess an unwavering motivation to continuously expand my knowledge and skill set. My enthusiasm for learning knows no bounds, and I wholeheartedly embrace opportunities to explore new frontiers in the exciting domain of computer science.
+
+Thank you for visiting my website, and I invite you to explore my work and achievements further.

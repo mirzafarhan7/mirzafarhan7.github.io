@@ -7,6 +7,30 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<p><strong>University of Delaware</strong></p>
 
-Organize your courses by years, topics, or universities, however you like!
+<ul>
+  <li>Department: Computer and Information Sciences</li>
+  <li>Position: Instructor</li>
+  <li>Duration: Summer 2023, Summer 2024</li>
+  <li>Courses Taught:
+    <ul>
+      <li>CISC181: Introduction to Computer Science II</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>BRAC University</strong></p>
+
+<ul>
+  <li>Department: Computer Science and Engineering</li>
+  <li>Position: Lecturer (On study leave)</li>
+  <li>Duration: May 2019 - August 2022</li>
+  <li>Courses Taught:
+    <ul>
+        <li>CSE340: Computer Architecture</li>
+        <li>CSE341: Microprocessors</li>
+        <li>CSE461: Introduction to Robotics</li>
+    </ul>
+  </li>
+</ul>

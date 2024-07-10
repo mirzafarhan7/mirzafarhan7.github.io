@@ -1,36 +1,49 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Mirza Farhan Bin Tarek",
+    "label": "Ph.D. Student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "mfarhan@udel.edu",
+    "url": "https://mirzafarhan7.github.io",
+    "summary": "Currently doing a PhD in Computer Science with a focus on the applications of artificial intelligence (AI)
+and machine learning (ML) in healthcare. Particularly interested in using machine learning, data science, and
+artificial intelligence to create novel approaches for enhancing patient outcomes, lowering healthcare costs,
+and creating techniques for quicker, more accurate diagnosis. Dedicated to being an enthusiastic team player
+who is driven to advance healthcare technologies.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Smith Hall, 18 Amstel Ave",
+      "postalCode": "DE 19711",
+      "city": "Newark",
       "countryCode": "US",
-      "region": "California"
+      "region": "Delaware"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "mirzafarhanbintarek",
+        "url": "https://www.linkedin.com/in/mirzafarhanbintarek/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Delaware",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2022-08-01",
+      "endDate": "Present",
+      "summary": "I am currently serving as an Infrastructure Teaching Assistant (TA), responsible for assisting the Academic Advisor with the development of a web-based application designed to streamline the process of sending offer letters to a diverse group of TAs while efficiently managing their office hours
+scheduling in addition to other functionalities. My work involves leveraging a tech stack that includes HTML, CSS, JavaScript, FastAPI, Jinja2 and
+Python to create a user-friendly and automated system that enhances the TA
+onboarding experience and ensures seamless communication with teaching
+staff.",
+    },
+    {
+      "name": "University of Delaware",
+      "position": "Instructor (On Contract)",
+      "startDate": "Summer 23",
+      "endDate": "Present",
+      "summary": "As the instructor for the summer-24 course, CISC181- Introduction to Computer Science II, I am responsible for giving lectures to students, grading
+the assessments, and designing and updating the curriculum.",
     }
   ],
   "volunteer": [

@@ -37,29 +37,31 @@
       "summary": "As the instructor for the summer-24 course, CISC181- Introduction to Computer Science II, I am responsible for giving lectures to students, grading the assessments, and designing and updating the curriculum.",
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Delaware",
+      "location": "Delaware, USA",
+      "url": "https://www.udel.edu/",
+      "Degree": "PhD",
+      "startDate": "2022",
+      "endDate": "Present",
+    },
+    {
+      "institution": "Staffordshire University",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.uiu.ac.bd/",
+      "Program Name": "Individual Modules under Erasmus+ KA1 Mobility Program",
+      "startDate": "2017",
+      "endDate": "2018",
+    },
+    {
+      "institution": "United International University, Dhaka, Bangladesh",
+      "location": "Dhaka, Bangladesh",
+      "url": "https://www.uiu.ac.bd/",
+      "Program Name": "BSc in Computer Science and Engineering",
+      "startDate": "2014",
+      "endDate": "2018",
+      "CGPA": "3.99",
     }
   ],
   "awards": [

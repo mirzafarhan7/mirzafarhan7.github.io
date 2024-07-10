@@ -313,7 +313,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Bin Tarek]
-  first_name: [Mirza Farhan, MF, MFB]
+  first_name: [Mirza Farhan,MF,MFB,Mirza Farhan Bin]
 
   style: apa
   locale: en

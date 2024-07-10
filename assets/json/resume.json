@@ -44,7 +44,7 @@
       "url": "https://www.udel.edu/",
       "Degree": "PhD",
       "startDate": "2022",
-      "endDate": "Present",
+      "endDate": "Present"
     },
     {
       "institution": "Staffordshire University",
@@ -52,7 +52,7 @@
       "url": "https://www.uiu.ac.bd/",
       "Program Name": "Individual Modules under Erasmus+ KA1 Mobility Program",
       "startDate": "2017",
-      "endDate": "2018",
+      "endDate": "2018"
     },
     {
       "institution": "United International University, Dhaka, Bangladesh",
@@ -61,60 +61,19 @@
       "Program Name": "BSc in Computer Science and Engineering",
       "startDate": "2014",
       "endDate": "2018",
-      "CGPA": "3.99",
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "CGPA": "3.99"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Deep Learning Specialization",
+      "date": "2018",
+      "issuer": "Coursera"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Web development using ASP.NET",
+      "date": "2017",
+      "issuer": "CDIP (Centre for Development of IT Professionals) ,United International University, Dhaka, Bangladesh",
     }
   ],
   "publications": [
@@ -126,38 +85,62 @@
       "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Improving fairness in ai models on electronic health records: The case for federated learning methods",
+      "publisher": "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency",
+      "releaseDate": "2023",
+      "url": "https://dl.acm.org/doi/10.1145/3593013.3594102",
+      "summary": "Developing AI tools that preserve fairness is of critical importance, specifically in high-stakes applications such as those in healthcare. However, health AI models’ overall prediction performance is often prioritized over the possible biases such models could have. In this study, we show one possible approach to mitigate bias concerns by having healthcare institutions collaborate through a federated learning paradigm (FL; which is a popular choice in healthcare settings). While FL methods with an emphasis on fairness have been previously proposed, their underlying model and local implementation techniques, as well as their possible applications to the healthcare domain remain widely underinvestigated. Therefore, we propose a comprehensive FL approach with adversarial debiasing and a fair aggregation method, suitable to various fairness metrics, in the healthcare domain where electronic health records are used. Not only our approach explicitly mitigates bias as part of the optimization process, but an FL-based paradigm would also implicitly help with addressing data imbalance and increasing the data size, offering a practical solution for healthcare applications. We empirically demonstrate our method’s superior performance on multiple experiments simulating large-scale real-world scenarios and compare it to several baselines. Our method has achieved promising fairness performance with the lowest impact on overall discrimination performance (accuracy)."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Spatio-temporal analysis of large air pollution data",
+      "publisher": "2018 10th International Conference on Electrical and Computer Engineering (ICECE), IEEE",
+      "releaseDate": "2018",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8636696/",
+      "summary": "Air pollution is one of the most dangerous environmental threats in our planet. Although it is severe in highly populated and industrialized cities of developing countries, it is a major concern for developed countries as well. In the developed world, air quality data is gathered from a large number of air pollution monitoring stations. However, the volume of data is very high and it is not possible to analyze the data efficiently in real-time using the conventional methods. Hence, large scale data mining techniques can help in analyzing those data more efficiently and dynamically. In this paper, a method for mining large amount of air pollution data is proposed for finding air pollution hot spots and time of pollution using clustering methods and time-series analysis. The results, after using the method to the air pollution data of PM 2 . 5 , PM 10 and ozone in the United Kingdom from 2015-17, has shown that the pollution due to particulate matters was higher in winter season and ozone pollution had downward trend except some areas."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Coding",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+       "Python",
+        "Java",
+        "C"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+       "MySQL",
+        "ORACLE"
+      ]
+    },
+    {
+      "name": "Web Dev and Software Engineering",
+      "keywords": [
+       "HTML",
+        "CSS",
+        "FASTAPI",
+        "JINJA2"
+      ]
+    },
+    {
+      "name": "Web Dev and Software Engineering",
+      "keywords": [
+       "ML libraries like scikit-learn, PyTorch"
+      ]
+    },
+    {
+      "name": "Misc.",
+      "keywords": [
+       "LATEX typesetting and publishing"
       ]
     }
+    
   ],
-  "languages": [
+  "Machine Learning": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -167,40 +150,20 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Rahmatollah Beheshti, PhD",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Skin Cancer Classification with Ensemble of Deep Convolutional Neural Networks",
+      "summary": "In this work, deep convolution networks e.g., VGG-16, Efficient NetB3 and ResNet-50 were used to identify skin cancer from dermoscopic images",
+      "startDate": "2021",
+      "endDate": "2021",
+      "url": "https://github.com/mfarhan007/skin-cancer"
     }
   ]
 }

@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mirzafarhan7
 
 repo_description_lines_max: 2
 
 github_repos:
+  - healthylaife/FairSynth
   - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons

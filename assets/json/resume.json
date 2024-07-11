@@ -25,7 +25,7 @@
     {
       "name": "University of Delaware",
       "position": "Graduate Teaching Assistant",
-      "startDate": "2022-08-01",
+      "startDate": "2022-08",
       "endDate": "Present",
       "summary": "I am currently serving as an Infrastructure Teaching Assistant (TA), responsible for assisting the Academic Advisor with the development of a web-based application designed to streamline the process of sending offer letters to a diverse group of TAs while efficiently managing their office hours scheduling in addition to other functionalities. My work involves leveraging a tech stack that includes HTML, CSS, JavaScript, FastAPI, Jinja2 and Python to create a user-friendly and automated system that enhances the TA onboarding experience and ensures seamless communication with teaching staff."
     },
@@ -34,7 +34,7 @@
       "position": "Instructor (On Contract)",
       "startDate": "Summer 23",
       "endDate": "Present",
-      "summary": "As the instructor for the summer-24 course, CISC181- Introduction to Computer Science II, I am responsible for giving lectures to students, grading the assessments, and designing and updating the curriculum."
+      "summary": "As the instructor of CISC181- Introduction to Computer Science II, I am responsible for giving lectures to students, grading the assessments, and designing and updating the curriculum."
     }
   ],
   "education": [
@@ -42,25 +42,25 @@
       "institution": "University of Delaware",
       "location": "Delaware, USA",
       "url": "https://www.udel.edu/",
-      "Degree": "PhD",
-      "startDate": "2022",
+      "program": "Ph.D. in Computer Science"
+      "startDate": "2022-08",
       "endDate": "Present"
     },
     {
       "institution": "Staffordshire University",
       "location": "Dhaka, Bangladesh",
       "url": "https://www.staffs.ac.uk/",
-      "Program Name": "Individual Modules under Erasmus+ KA1 Mobility Program",
-      "startDate": "2017",
-      "endDate": "2018"
+      "program": "Individual Modules under Erasmus+ KA1 Mobility Program",
+      "startDate": "2017-08",
+      "endDate": "2018-04"
     },
     {
       "institution": "United International University, Dhaka, Bangladesh",
       "location": "Dhaka, Bangladesh",
       "url": "https://www.uiu.ac.bd/",
-      "Program Name": "BSc in Computer Science and Engineering",
-      "startDate": "2014",
-      "endDate": "2018",
+      "program": "BSc in Computer Science and Engineering",
+      "startDate": "2014-02",
+      "endDate": "2018-11",
       "CGPA": "3.99"
     }
   ],
@@ -73,12 +73,12 @@
     {
       "name": "Web development using ASP.NET",
       "date": "2017",
-      "issuer": "CDIP (Centre for Development of IT Professionals) ,United International University, Dhaka, Bangladesh"
+      "issuer": "CDIP (Centre for Development of IT Professionals), United International University, Dhaka, Bangladesh"
     }
   ],
   "publications": [
     {
-      "name": "Improving fairness in ai models on electronic health records: The case for federated learning methods",
+      "name": "Improving fairness in AI models on electronic health records: The case for federated learning methods",
       "publisher": "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency",
       "releaseDate": "2023",
       "url": "https://dl.acm.org/doi/10.1145/3593013.3594102",
@@ -151,7 +151,7 @@
   "projects": [
     {
       "name": "Skin Cancer Classification with Ensemble of Deep Convolutional Neural Networks",
-      "summary": "In this work, deep convolution networks e.g., VGG-16, Efficient NetB3 and ResNet-50 were used to identify skin cancer from dermoscopic images",
+      "summary": "In this work, deep convolution networks e.g., VGG-16, Efficient NetB3, and ResNet-50 were used to identify skin cancer from dermoscopic images",
       "startDate": "2021",
       "endDate": "2021",
       "url": "https://github.com/mfarhan007/skin-cancer"

@@ -94,7 +94,7 @@
   ],
   "skills": [
     {
-      "name": "Coding",
+      "name": "Programming Languages",
       "keywords": [
         "Python",
         "Java",
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "name": "Web Dev and Software Engineering",
+      "name": "Machine Learning",
       "keywords": [
         "ML libraries like scikit-learn, PyTorch"
       ]
@@ -126,7 +126,8 @@
     {
       "name": "Misc.",
       "keywords": [
-        "LATEX typesetting and publishing"
+        "LATEX typesetting and publishing",
+        "Academic Research"
       ]
     }
   ],
@@ -144,8 +145,7 @@
   ],
   "references": [
     {
-      "name": "Rahmatollah Beheshti, PhD",
-      "position": "Assistant Professor, Department of Computer & Information Sciences, University of Delaware"
+      "name": "Dr. Rahmatollah Beheshti, Assistant Professor, Department of Computer & Information Sciences, University of Delaware"
     }
   ],
   "projects": [

@@ -42,15 +42,27 @@
       "institution": "University of Delaware",
       "location": "Delaware, USA",
       "url": "https://www.udel.edu/",
-      "program": "Ph.D. in Computer Science",
+      "area": "Computer Science",
+      "studyType": "Ph.D.",
       "startDate": "2022-08",
-      "endDate": ""
+      "endDate": "",
+      "courses": [
+      "CISC 621 ALGORITHM DESIGN AND ANALYSIS",
+      "CISC 637 DATABASE SYSTEMS",
+      "CISC 655 COMM SKILLS FOR CS RESEARCH",
+      "CISC 662 COMPUTER SYSTEMS: ARCHITECTURE",
+      "CISC 681 ARTIFICIAL INTELLIGENCE",
+      "CISC 684 MACHINE LEARNING",
+      "CISC 849 ADV TPCS IN COMPUTER APPLICATN: Research in Accessible Computing",
+      "CISC 889 ADVNACED ARTIFICIAL INTELLIGENCE"
+    ]
     },
     {
       "institution": "Staffordshire University",
-      "location": "Dhaka, Bangladesh",
+      "location": "Stoke-on-Trent, Staffordshire, United Kingdom",
       "url": "https://www.staffs.ac.uk/",
-      "program": "Individual Modules under Erasmus+ KA1 Mobility Program",
+      "area": "Computer Science",
+      "studyType": "Individual Modules under Erasmus+ KA1 Mobility Program",
       "startDate": "2017",
       "endDate": "2018"
     },

@@ -41,7 +41,7 @@
     {
       "institution": "University of Delaware",
       "location": "Delaware, USA",
-      "url": "https://www.udel.edu/",
+      "url": "https://www.cis.udel.edu/academics/graduate-programs/phd-in-computer-science/",
       "area": "Computer Science",
       "studyType": "Ph.D.",
       "startDate": "2022-08",
@@ -69,7 +69,7 @@
     {
       "institution": "United International University, Dhaka, Bangladesh",
       "location": "Dhaka, Bangladesh",
-      "url": "https://www.uiu.ac.bd/",
+      "url": "https://cse.uiu.ac.bd/ug-program/",
       "area": "Computer Science and Engineering",
       "studyType": "Bachelor of Science (BSc)",
       "startDate": "2014",
@@ -81,7 +81,8 @@
     {
       "name": "Deep Learning Specialization",
       "date": "2018",
-      "issuer": "Coursera"
+      "issuer": "Coursera",
+      "url": "https://coursera.org/share/84241848e71f7e9b512f077c10671891"
     },
     {
       "name": "Web development using ASP.NET",

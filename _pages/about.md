@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Room 214, Smith Hall</p>
     <p>18 Amstel Ave,</p>
-    <p>Newark, DE 19711</p>
+    <p>Newark, DE 19716</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

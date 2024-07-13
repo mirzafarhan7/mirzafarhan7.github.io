@@ -77,6 +77,18 @@
       "score": "3.99"
     }
   ],
+   "awards": [{
+    "title": "Summa Cum Laude",
+    "date": "2018",
+    "awarder": "United International University, Dhaka, Bangladesh",
+  },
+     {
+    "title": "Participated in the Erasmus+ KA1 mobility program (Funded by Erasmus+ EU)",
+    "date": "2017",
+    "awarder": "United International University, Dhaka, Bangladesh",
+    "summary": "Under the award, I studied at Staffordshire University, Staffordshire, United Kingdom for 6 months. There I took three graduate-level courses and completed my undergraduate thesis work titled \"Spatio-temporal analysis of large air pollution data\" under Dr. Md Asaduzzaman"
+  }
+   ],
   "certificates": [
     {
       "name": "Deep Learning Specialization",
@@ -96,7 +108,7 @@
       "publisher": "Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency",
       "releaseDate": "2023",
       "url": "https://dl.acm.org/doi/10.1145/3593013.3594102",
-      "summary": "Developing AI tools that preserve fairness is of critical importance, specifically in high-stakes applications such as those in healthcare. However, health AI models overall prediction performance is often prioritized over the possible biases such models could have. In this study, we show one possible approach to mitigate bias concerns by having healthcare institutions collaborate through a federated learning paradigm (FL; which is a popular choice in healthcare settings). While FL methods with an emphasis on fairness have been previously proposed, their underlying model and local implementation techniques, as well as their possible applications to the healthcare domain remain widely underinvestigated. Therefore, we propose a comprehensive FL approach with adversarial debiasing and a fair aggregation method, suitable to various fairness metrics, in the healthcare domain where electronic health records are used. Not only our approach explicitly mitigates bias as part of the optimization process, but an FL-based paradigm would also implicitly help with addressing data imbalance and increasing the data size, offering a practical solution for healthcare applications. We empirically demonstrate our method's superior performance on multiple experiments simulating large-scale real-world scenarios and compare it to several baselines. Our method has achieved promising fairness performance with the lowest impact on overall discrimination performance (accuracy)."
+      "summary": "Developing AI tools that preserve fairness is of critical importance, specifically in high-stakes applications such as those in healthcare. However, health AI models' overall prediction performance is often prioritized over the possible biases such models could have. In this study, we show one possible approach to mitigate bias concerns by having healthcare institutions collaborate through a federated learning paradigm (FL; which is a popular choice in healthcare settings). While FL methods with an emphasis on fairness have been previously proposed, their underlying model and local implementation techniques, as well as their possible applications to the healthcare domain remain widely underinvestigated. Therefore, we propose a comprehensive FL approach with adversarial debiasing and a fair aggregation method, suitable to various fairness metrics, in the healthcare domain where electronic health records are used. Not only our approach explicitly mitigates bias as part of the optimization process, but an FL-based paradigm would also implicitly help with addressing data imbalance and increasing the data size, offering a practical solution for healthcare applications. We empirically demonstrate our method's superior performance on multiple experiments simulating large-scale real-world scenarios and compare it to several baselines. Our method has achieved promising fairness performance with the lowest impact on overall discrimination performance (accuracy)."
     },
     {
       "name": "Spatio-temporal analysis of large air pollution data",

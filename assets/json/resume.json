@@ -118,6 +118,15 @@
       "summary": "Air pollution is one of the most dangerous environmental threats in our planet. Although it is severe in highly populated and industrialized cities of developing countries, it is a major concern for developed countries as well. In the developed world, air quality data is gathered from a large number of air pollution monitoring stations. However, the volume of data is very high and it is not possible to analyze the data efficiently in real-time using the conventional methods. Hence, large scale data mining techniques can help in analyzing those data more efficiently and dynamically. In this paper, a method for mining large amount of air pollution data is proposed for finding air pollution hot spots and time of pollution using clustering methods and time-series analysis. The results, after using the method to the air pollution data of PM 2 . 5 , PM 10 and ozone in the United Kingdom from 2015-17, has shown that the pollution due to particulate matters was higher in winter season and ozone pollution had downward trend except some areas."
     }
   ],
+  "projects": [
+    {
+      "name": "Skin Cancer Classification with Ensemble of Deep Convolutional Neural Networks",
+      "summary": "In this work, deep convolution networks e.g., VGG-16, Efficient NetB3, and ResNet-50 were used to identify skin cancer from dermoscopic images",
+      "startDate": "2021",
+      "endDate": "2021",
+      "url": "https://github.com/mfarhan007/skin-cancer"
+    }
+  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -172,15 +181,6 @@
   "references": [
     {
       "name": "Dr. Rahmatollah Beheshti, Assistant Professor, Department of Computer & Information Sciences, University of Delaware"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Skin Cancer Classification with Ensemble of Deep Convolutional Neural Networks",
-      "summary": "In this work, deep convolution networks e.g., VGG-16, Efficient NetB3, and ResNet-50 were used to identify skin cancer from dermoscopic images",
-      "startDate": "2021",
-      "endDate": "2021",
-      "url": "https://github.com/mfarhan007/skin-cancer"
     }
   ]
 }

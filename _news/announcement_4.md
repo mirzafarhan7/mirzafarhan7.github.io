@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-02-18 04:20:00-0400
+date: 2025-06-04 05:00:00-0400
 inline: true
 related_posts: false
 ---
-My paper titled Fairness-Optimized Synthetic EHR Generation for Arbitrary Downstream Predictive Tasks", has been accepted at the 2025 IEEE/ACM Conference on Connected Health: Applications, Systems, and Engineering Technologies (CHASE).
+I have been selected to receive an NSF Student Travel Award for my participation in IEEE/ACM CHASE 2025, taking place June 24–26, 2025, in Manhattan, New York City, USA.
